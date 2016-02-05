@@ -94,3 +94,14 @@ dismathportfolio-ahvabada created by Classroom for GitHub
 | ∴ q v r |
 
 - We were given examples of statements to prove that made me understand the lesson.
+
+## WEEK # 4
+- This week, we focused on methods o proof such as Direct, Contraposition, Vacuous, Trivial and Proof by Contradiction.
+  1. Direct Proof - Assume that p is true to show that q must also be true.
+  2. Contraposition Proof- Assume that the negation of q must be true.
+  3. Vacuous Proof - Show that p is false because → q  must be true when p is false.
+  4. Trivial Proof - Show that q is true, it follows that p → q must also be true. q → (p → q) 
+  5. Proof of Contradiction - Assume that the negation of p must be true.
+- Even if we were given examples for each, I am still figuring out on how and when to use the methods on certain problems.
+- A lot of assuming happened this week and it is really hard to give proof on things.
+
