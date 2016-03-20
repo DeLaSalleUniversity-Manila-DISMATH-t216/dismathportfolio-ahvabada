@@ -195,24 +195,24 @@ dismathportfolio-ahvabada created by Classroom for GitHub
 ## WEEK # 8
  - This week is all about functions and algorithms.
  - Function :
-  - f(a) = b ; where f(a) is called the domain while b is the codomain
-  - There must only be one domain.
+    - f(a) = b ; where f(a) is called the domain while b is the codomain
+    - There must only be one domain.
   - Ex. 
-   - a. f(x) = x^2 ; Domain x ∈ ℤ f: ℤ to ℤ 
-   - b. int floor (float x)
+    - a. f(x) = x^2 ; Domain x ∈ ℤ f: ℤ to ℤ 
+    - b. int floor (float x)
   - Types of Functions :
-   - a. One-to-One (Injective) = ∀x∀y(f(x)=f(y) → x=y) and ∀x∀y(x≠y → f(x)≠f(y))
-   - b. Onto (Surjective) Range = Co-domain 
-   - c. One-to-one and Onto (Bijection) 
+    - a. One-to-One (Injective) = ∀x∀y(f(x)=f(y) → x=y) and ∀x∀y(x≠y → f(x)≠f(y))
+    - b. Onto (Surjective) Range = Co-domain 
+    - c. One-to-one and Onto (Bijection) 
   - Algorithm :
   - Properties of Algorithm :
-   - a. Input
-   - b. Output
-   - c. Definiteness
-   - d. Correctness
-   - e. Finiteness
-   - f. Effectiveness
-   - g. Generality
+    - a. Input
+    - b. Output
+    - c. Definiteness
+    - d. Correctness
+    - e. Finiteness
+    - f. Effectiveness
+    - g. Generality
 
 ## WEEK # 9
   -Algorithm
